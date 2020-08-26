@@ -1,0 +1,15 @@
+console.log("Hello Winc Academy");
+        let name = 'Glenn';
+        let lastName = ' Something';
+        console.log(name);
+        console.log(2 + 2);
+        console.log(name + lastName);
+        console.log(10 + 10);
+        console.log(20 - 10);
+        console.log(8 * 8);
+        console.log(100 / 3);
+        console.log(100 % 3);
+        let age = 35;
+        console.log(typeof age);
+        let leeftijd = 'vijfendertig';
+        console.log(typeof leeftijd);
